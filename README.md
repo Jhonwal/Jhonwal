@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Karim Ouiaboub
 
-## 👨‍💻 Full Stack Web Developer & Machine Learning Enthusiast
+## 👨‍💻 Full Stack Web Developer 
 
-I'm a passionate developer with expertise in both full stack web development and machine learning applications. I enjoy building responsive web applications and exploring predictive models.
+I'm a passionate developer with expertise in full stack web development. I enjoy building responsive web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jhonwal&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/karim-ouiaboub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://github.com/Jhonwal/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/karim-ouiaboub-136178283)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://waguer-portfolio.netlify.app/)
 
 ## 📊 GitHub Stats
 
