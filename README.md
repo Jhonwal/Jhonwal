@@ -81,7 +81,7 @@ My professional portfolio showcasing projects, skills, and experiences in web de
 
 - GitHub: [Jhonwal](https://github.com/Jhonwal)
 - LinkedIn: [Karim Ouiaboub](https://linkedin.com/in/karim-ouiaboub)
-- Portfolio: [My Portfolio](https://github.com/Jhonwal/my-portfolio)
+- Portfolio: [My Portfolio]([https://waguer-portfolio.netlify.app/])
 
 ---
 
